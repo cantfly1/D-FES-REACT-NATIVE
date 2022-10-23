@@ -1,0 +1,59 @@
+.button {
+  justify-content: center;
+  margin-left: 60px;
+}
+
+.buttonA {
+  display: inline-block;
+  position: relative;
+  margin: 1em;
+  padding: 10px 30px;
+  border: 4px solid #165425;
+  overflow: hidden;
+  text-decoration: none;
+  font-size: 14px;
+  outline: none;
+  color: #165425;
+  background: transparent;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  /*margin-left: 50px;*/
+}
+
+.buttonB {
+  display: inline-block;
+  position: relative;
+  margin: 1em;
+  padding: 10px 30px;
+  border: 4px solid #9EBE26;
+  overflow: hidden;
+  text-decoration: none;
+  font-size: 14px;
+  outline: none;
+  color: #9EBE26;
+  background: transparent;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  /*margin-left: 50px;*/
+}
+
+.groupB {
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.groupC {
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.groupD {
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.groupE {
+  position: relative;
+  margin-bottom: 45px;
+}
+
